@@ -1,4 +1,4 @@
-🌿 PlantNest – Online Plant Selling Website
+🌿 Lilies – Online Plant Selling Website
 
 Welcome to **PlantNest**, a full-stack plant-selling web application built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Django**, and **SQLite**. This website allows users to browse and buy plants online, with complete functionality from product listings to payments, order management, and admin controls.
 
